@@ -15,3 +15,7 @@ provider "NAME" {
   alias = "ALIAS_NAME"
   # Provider specific arguments
 }
+
+resource "NAME_TYPE" "name" {
+  
+}
